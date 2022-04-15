@@ -1,2 +1,2 @@
-# gi-bin-output
-Almost™ full Genshin Impact BinOutput data
+# someanimegamebinoutput
+Some anime game BinOutput data
